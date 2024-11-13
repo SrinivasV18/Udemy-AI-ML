@@ -1,1 +1,5 @@
 Datapoints - Numerical,Categorical,  Ordinal
+Mean- Sum/no-of-samples
+Median - Sort the values and take the midpoint
+Mode- The most common value in a dataset.
+Standard deviation
